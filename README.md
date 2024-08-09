@@ -1,2 +1,2 @@
 # projects
-collage projects
+My projects
